@@ -1,0 +1,55 @@
+      body {
+      animation-name: win;
+      animation-duration: 4s;
+      }
+      .bc {
+      left:400px;
+      top:0px;
+      position: absolute;
+      }
+      .bt {
+      left:400px;
+      top:250px;
+      position: absolute;
+      }
+      .bs {
+      left:400px;
+      top:500px;
+      position: absolute;
+      }
+      #c {
+      cursor:pointer;
+      left:100px;
+      top:520px;
+      position: absolute;
+      }
+      #t {
+      cursor:pointer;
+      left:100px;
+      top:270px;
+      position: absolute;
+      }
+      #s {
+      cursor:pointer;
+      left:100px;
+      top:20px;
+      position: absolute;
+      }
+      #x1 {
+      display:none;
+      left:450px;
+      top:100px;
+      position: absolute;
+      }
+      #x2 {
+      display:none;
+      left:450px;
+      top:350px;
+      position: absolute;
+      }
+      #x3 {
+      display:none;
+      left:450px;
+      top:600px;
+      position: absolute;
+      }
